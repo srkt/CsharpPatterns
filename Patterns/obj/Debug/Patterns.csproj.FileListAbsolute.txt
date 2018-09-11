@@ -1,0 +1,6 @@
+C:\Users\suman\source\repos\Patterns\Patterns\bin\Debug\Patterns.dll
+C:\Users\suman\source\repos\Patterns\Patterns\bin\Debug\Patterns.pdb
+C:\Users\suman\source\repos\Patterns\Patterns\obj\Debug\Patterns.csprojAssemblyReference.cache
+C:\Users\suman\source\repos\Patterns\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\suman\source\repos\Patterns\Patterns\obj\Debug\Patterns.dll
+C:\Users\suman\source\repos\Patterns\Patterns\obj\Debug\Patterns.pdb

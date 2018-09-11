@@ -1,0 +1,10 @@
+C:\Users\suman\source\repos\Patterns\PatternConsole\bin\Debug\PatternConsole.exe.config
+C:\Users\suman\source\repos\Patterns\PatternConsole\bin\Debug\PatternConsole.exe
+C:\Users\suman\source\repos\Patterns\PatternConsole\bin\Debug\PatternConsole.pdb
+C:\Users\suman\source\repos\Patterns\PatternConsole\bin\Debug\Patterns.dll
+C:\Users\suman\source\repos\Patterns\PatternConsole\bin\Debug\Patterns.pdb
+C:\Users\suman\source\repos\Patterns\PatternConsole\obj\Debug\PatternConsole.csprojAssemblyReference.cache
+C:\Users\suman\source\repos\Patterns\PatternConsole\obj\Debug\PatternConsole.csproj.CoreCompileInputs.cache
+C:\Users\suman\source\repos\Patterns\PatternConsole\obj\Debug\PatternConsole.csproj.CopyComplete
+C:\Users\suman\source\repos\Patterns\PatternConsole\obj\Debug\PatternConsole.exe
+C:\Users\suman\source\repos\Patterns\PatternConsole\obj\Debug\PatternConsole.pdb
